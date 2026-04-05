@@ -1,0 +1,6 @@
+google-genai>=1.11.0
+python-dotenv>=1.0.1
+sqlite-vec>=0.1.6
+yt-dlp
+tqdm>=4.66.5
+rich>=13.9.4
