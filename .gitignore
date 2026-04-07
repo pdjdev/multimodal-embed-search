@@ -16,4 +16,6 @@ __pycache__/
 
 # sqlite db 파일 무시
 *.db
+*.db-shm
+*.db-wal
 
